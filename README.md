@@ -17,3 +17,13 @@ Write a function called insertShiftArray which takes in an array and the value t
 
 ## Solution
 <img src="assets/array-shift.jpeg">
+
+// DAY 03
+# Binary Search
+The array passed in to the function's first parameter will be searched through to find the value passed in as the second parameter.
+
+## Challenge
+Write a function called BinarySearch which takes in 2 parameters: a sorted array and the search key. Without utilizing any of the built-in methods available to your language, return the index of the array’s element that is equal to the search key, or -1 if the element does not exist.
+
+## Solution
+<img src="assets/array-binary-search.JPG">
