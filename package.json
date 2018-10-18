@@ -1,10 +1,10 @@
 {
   "name": "data-structures-and-algorithms",
   "version": "1.0.0",
-  "description": "// DAY 01 # Reverse an Array The elements of an array will be in an order. The elements will need to be arranged in a reversed order.",
-  "main": "array-reverse.js",
+  "description": "The elements of an array will be in an order. The elements will need to be arranged in a reversed order.",
+  "main": "array-binary-search.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thethirdone-g/data-structures-and-algorithms/issues"
   },
-  "homepage": "https://github.com/thethirdone-g/data-structures-and-algorithms#readme"
+  "homepage": "https://github.com/thethirdone-g/data-structures-and-algorithms#readme",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
 }
