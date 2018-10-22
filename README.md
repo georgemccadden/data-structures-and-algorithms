@@ -27,3 +27,11 @@ Write a function called BinarySearch which takes in 2 parameters: a sorted array
 
 ## Solution
 <img src="assets/array-binary-search.JPG">
+
+// Day 05
+## Challenge
+
+The linked list constructor should have methods which will append `.append(value)` a new node to the end of the list, insert a new node before another node `.insertBefore(value, newNodeValue)`, and insert a new node after another node `.insertAfter(value, newNodeValue)`.
+
+## Solution
+<img src="assets/ll-insertions.jpg">
