@@ -1,0 +1,1 @@
+In our algorithm, our for loop should run while i < or = to 0.

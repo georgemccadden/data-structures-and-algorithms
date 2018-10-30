@@ -1,4 +1,3 @@
-// DAY 01
 # Reverse an Array
 The elements of an array will be in an order. The elements will need to be arranged in a reversed order.
 
@@ -8,7 +7,7 @@ Write a function called reverseArray which takes an array as an argument. Withou
 ## Solution
 <img src="assets/array-reverse.JPG">
 
-// DAY 02
+
 # Insert Shift an Array
 The value passed in as a parameter will be placed in the center of the array that is passed into the parameter.
 
@@ -18,7 +17,7 @@ Write a function called insertShiftArray which takes in an array and the value t
 ## Solution
 <img src="assets/array-shift.jpeg">
 
-// DAY 03
+
 # Binary Search
 The array passed in to the function's first parameter will be searched through to find the value passed in as the second parameter.
 
@@ -28,7 +27,7 @@ Write a function called BinarySearch which takes in 2 parameters: a sorted array
 ## Solution
 <img src="assets/array-binary-search.JPG">
 
-// Day 05
+
 # Linked List Iterations
 Create a Node class that has properties for the value stored in the Node, and a pointer to the next Node. Add three methods.
 
@@ -39,14 +38,24 @@ The linked list constructor should have methods which will append `.append(value
 ## Solution
 <img src="assets/ll-insertions.jpg">
 
-// Day 06
+# Stacks and Queues
+
+## Challenge
+
+## Solution
+
+# Queue With Stacks
+
+## Solution
+<img src="assets/queue-with-stacks1.jpg">
+<img src="assets/queue-with-stacks2.jpg">
+
 #
 
 ## 
 
 ##
 
-// Day 07
 # Linked List Merge
 Create a new linked list that is a merged version of two linked lists.
 
@@ -55,3 +64,4 @@ Write a function called `mergeLists` which takes two linked lists as arguments. 
 
 ## Solution
 <img src="assets/ll-merge.jpg">
+
