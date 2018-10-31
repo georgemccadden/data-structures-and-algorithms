@@ -62,11 +62,20 @@ Create a class called `AnimalShelter` which holds only dogs and cats. The shelte
 <img src="assets/fifo-animal-shelter.jpeg">
 
 # Linked List Merge
-Create a new linked list that is a merged version of two linked lists.
+A linked list that is a merged version of two linked lists.
 
 ## Challenge
 Write a function called `mergeLists` which takes two linked lists as arguments. Zip the two linked lists together into one so that the nodes alternate between the two lists and return a reference to the head of the zipped list. Try and keep additional space down to O(1). You have access to the Node class and all the properties on the Linked List class as well as the methods created in previous challenges.
 
 ## Solution
 <img src="assets/ll-merge.jpg">
+
+# Multi-bracket Validation
+A validator for brackets and their matching closing brackets.
+
+## Challenge
+Create a function that takes a string as its only argument, and return a boolean representing whether or not the brackets - `{}`, `[]`, `()` - in the string are balanced.
+
+## Solution
+<img src="assets/multi-bracket-validation.jpeg">
 
