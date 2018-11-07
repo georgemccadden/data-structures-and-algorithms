@@ -87,3 +87,12 @@ Write a function called FizzBuzzTree which takes a tree as an argument. Without 
 
 ## Solution
 <img src="assets/fizz-buzz-tree.jpg">
+
+# Breadth-first Traversal
+Search a tree by starting at the tree's root, and explore all of the neighbor nodes at the present depth prior to moving on to the nodes at the next depth level.
+
+## Challenge
+Write a breadth first traversal method which takes a Binary Tree as its unique input. Without utilizing any of the built-in methods available to your language, traverse the input tree using a Breadth-first approach; print every visited node’s value.
+
+## Solution
+<img src="assets/breadth-first-traversal.jpeg">
