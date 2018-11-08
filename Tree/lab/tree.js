@@ -63,6 +63,25 @@ class BinarySearchTree {
   }
 }
 
+function findMaxValue(binary) {
+  if(!binary && !binary.root) {
+    return null;
+  }
+  let maxValue = binary.root.value;
+  function compareValues(node) {
+    if(!node) {
+      return null;
+    }
+    if(maxValue < node.value) {
+      maxValue = node.value;
+    }
+    compareValues(node.left);
+    compareValues(node.right);
+  }
+  compareValues(binary.root);
+  return maxValue;
+}
+
 let binary = new BinaryTree();
 binary.root = new Node(value);
 binary.root.left = new Node(value);
