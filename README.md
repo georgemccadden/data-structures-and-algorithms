@@ -107,3 +107,13 @@ The returned data structure that holds the results is up to you. It doesn’t ne
 
 ## Solution
 <img src="assets/left-join.jpg">
+
+# Find Maximum Value
+Search a binary tree to find the node with the greatest value.
+
+## Challenge
+Write a function called `find-maximum-value which` takes binary tree as its only input. Without utilizing any of the built-in methods available to your language, return the maximum value stored in the tree. You can assume that the values stored in the Binary Tree will be numeric.
+
+## Solution
+<img src="assets/find-maximum-value.jpeg">
+
